@@ -8,11 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Oct 2023 12:06:05 +0100</lastBuildDate><atom:link href="https://www.javadhd.com/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SOLID Principles</title>
-      <link>https://www.javadhd.com/docs/test/</link>
+      <title>OOP Principles</title>
+      <link>https://www.javadhd.com/docs/oop-principles/</link>
       <pubDate>Tue, 17 Oct 2023 12:06:05 +0100</pubDate>
       
-      <guid>https://www.javadhd.com/docs/test/</guid>
+      <guid>https://www.javadhd.com/docs/oop-principles/</guid>
+      <description>1. Encapsulation Meaning: It&amp;rsquo;s about bundling the data (attributes) and the methods (functions) that operate on the data into a single unit called an object. Moreover, restricting direct access to some of an object&amp;rsquo;s components, which is a means to prevent unintended interference and misuse of data.
+Java Example: Using private modifiers for class attributes and providing public getters and setters to access and modify them.
+public class Person { private String name; public String getName() { return name; } public void setName(String name) { this.</description>
+    </item>
+    
+    <item>
+      <title>SOLID Principles</title>
+      <link>https://www.javadhd.com/docs/solid-principles/</link>
+      <pubDate>Tue, 17 Oct 2023 12:06:05 +0100</pubDate>
+      
+      <guid>https://www.javadhd.com/docs/solid-principles/</guid>
       <description>1. Single Responsibility Principle (SRP) Meaning: A class should have only one reason to change, meaning it should have only one job or responsibility.
 Java Example: Instead of a single class handling both data storage and data representation, you split these tasks into separate classes.
 // Combining responsibilities (not ideal) public class User { public void saveUserToDatabase() {/*...*/} public void displayUserDetails() {/*...*/} } // Split responsibilities (preferred) public class UserDatabase { public void saveUser(User user) {/*.</description>
