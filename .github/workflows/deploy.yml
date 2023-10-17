@@ -37,4 +37,4 @@ jobs:
           git config user.name 'adaptium'
           git config user.email 'github@adaptium.xyz'
           git commit -m 'Updated site'
-          git push          
+          git push
