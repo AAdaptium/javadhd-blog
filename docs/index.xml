@@ -19,6 +19,17 @@ public class Person { private String name; public String getName() { return name
     </item>
     
     <item>
+      <title>OOP Principles</title>
+      <link>https://www.javadhd.com/docs/yahd-principles/</link>
+      <pubDate>Tue, 17 Oct 2023 12:06:05 +0100</pubDate>
+      
+      <guid>https://www.javadhd.com/docs/yahd-principles/</guid>
+      <description>1. Encapsulation Meaning: It&amp;rsquo;s about bundling the data (attributes) and the methods (functions) that operate on the data into a single unit called an object. Moreover, restricting direct access to some of an object&amp;rsquo;s components, which is a means to prevent unintended interference and misuse of data.
+Java Example: Using private modifiers for class attributes and providing public getters and setters to access and modify them.
+public class Person { private String name; public String getName() { return name; } public void setName(String name) { this.</description>
+    </item>
+    
+    <item>
       <title>SOLID Principles</title>
       <link>https://www.javadhd.com/docs/solid-principles/</link>
       <pubDate>Tue, 17 Oct 2023 12:06:05 +0100</pubDate>
