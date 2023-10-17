@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>JAVADHD Blog</title>
-    <link>https://aadaptium.github.io/javadhd-blog/</link>
+    <link>http://javadhd.com/</link>
     <description>Recent content on JAVADHD Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Oct 2023 12:06:05 +0100</lastBuildDate><atom:link href="https://aadaptium.github.io/javadhd-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 12:06:05 +0100</lastBuildDate><atom:link href="http://javadhd.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://aadaptium.github.io/javadhd-blog/docs/test/</link>
+      <link>http://javadhd.com/docs/test/</link>
       <pubDate>Tue, 17 Oct 2023 12:06:05 +0100</pubDate>
       
-      <guid>https://aadaptium.github.io/javadhd-blog/docs/test/</guid>
+      <guid>http://javadhd.com/docs/test/</guid>
       <description>This is a test page. This is a test page!</description>
     </item>
     
